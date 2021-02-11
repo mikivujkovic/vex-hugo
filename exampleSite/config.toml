@@ -6,10 +6,10 @@ theme = "vex-hugo"
 title = "EPP LAB"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright EPP LAB"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = "2"
 [Languages.fr]
 contentDir = "content/montenegrin"
 copyright = "Copyright EPP LAB "
