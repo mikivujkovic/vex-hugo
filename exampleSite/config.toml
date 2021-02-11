@@ -11,7 +11,7 @@ languageCode = "en-us"
 languageName = "En"
 weight = "2"
 [Languages.fr]
-contentDir = "content/montenegrin"
+contentDir = "content/french"
 copyright = "Copyright EPP LAB "
 languageCode = "cnr-cnr"
 languageName = "MNE"
