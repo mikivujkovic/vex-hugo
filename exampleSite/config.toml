@@ -11,11 +11,11 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+contentDir = "content/montenegrin"
+copyright = "Copyright EPP LAB "
+languageCode = "cnr-cnr"
+languageName = "MNE"
+weight = "1"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
