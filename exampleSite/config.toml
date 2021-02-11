@@ -1,4 +1,4 @@
-baseurl = "http://epplab.netlify.com"
+baseurl = "http://epplab.netlify.app"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
