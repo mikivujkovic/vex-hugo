@@ -1,7 +1,6 @@
 +++
 date = 2021-02-10T23:00:00Z
 description = "Jedan probni post"
-draft = true
 image = "/images/innovation.jpg"
 title = "Proba test"
 
